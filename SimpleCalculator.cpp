@@ -1,3 +1,8 @@
+// SimpleCalculator.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+// Copyright Sakura Jensen 2024 - Portfolio Collection
+// THIS WAS SUPPOSED TO BE SIMPLE! @_@
+
 #include <iostream>
 #include <string>
 #include <vector>
